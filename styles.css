@@ -2,17 +2,11 @@ h3 {
     text-align: center;
 }
 
-
-/* All tables */
-
 .middle {
     width: 90%;
     border: 1px solid black;
     border-spacing: 1px;
 }
-
-
-/* All cells */
 
 .middle td {
     border: 1px solid black;
@@ -20,64 +14,46 @@ h3 {
 }
 
 
-/* TABLE 1 */
+/* Table 1 */
 
 #table-1 {
     height: 100px;
 }
 
-
-/* Middle row */
-
 .center {
     text-align: center;
 }
-
-
-/* Entire rightmost column */
 
 .right {
     text-align: right;
 }
 
 
-/* TABLE 2 */
+/* Table 2 */
 
 #table-2 {
     height: 240px;
 }
 
 
-/* TABLE 3 */
+/* Table 3 */
 
 #table-3 {
     height: 300px;
 }
 
-
-/* Green */
-
 .green {
     background-color: green;
 }
-
-
-/* Blue */
 
 .blue {
     background-color: blue;
 }
 
-
-/* Image cell */
-
 #t-image {
     width: 34%;
     padding: 1px;
 }
-
-
-/* Image */
 
 #t-image img {
     width: 100%;
