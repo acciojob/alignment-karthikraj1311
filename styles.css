@@ -1,5 +1,3 @@
-/* Heading */
-
 h3 {
     text-align: center;
 }
@@ -22,9 +20,7 @@ h3 {
 }
 
 
-/* =========================
-   TABLE 1
-   ========================= */
+/* TABLE 1 */
 
 #table-1 {
     height: 100px;
@@ -38,39 +34,35 @@ h3 {
 }
 
 
-/* Rightmost column */
+/* Entire rightmost column */
 
 .right {
     text-align: right;
 }
 
 
-/* =========================
-   TABLE 2
-   ========================= */
+/* TABLE 2 */
 
 #table-2 {
     height: 240px;
 }
 
 
-/* =========================
-   TABLE 3
-   ========================= */
+/* TABLE 3 */
 
 #table-3 {
     height: 300px;
 }
 
 
-/* Green first row */
+/* Green */
 
 .green {
     background-color: green;
 }
 
 
-/* Blue last row */
+/* Blue */
 
 .blue {
     background-color: blue;
